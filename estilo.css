@@ -1,3 +1,12 @@
-body {
-    background-color: cadetblue;
+#button{
+
+    background-color: rgb(30, 153, 210);
+    color: rgb(215, 215, 218);
+    width: 200px;
+    height: 26px;
+    border-radius:30px;
+}
+
+#nota1{ 
+    height: 20px ;
 }
